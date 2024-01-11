@@ -1,5 +1,7 @@
 ## How to setup Arc Counter Widget using KWGT in an Android Device
 
+![Arc Widget](./assets/Arc_Windows_Beta_Testers_Counter_.kwgt.png)
+
 A simple Android Home screen Widget for getting realtime update of Arc Window Beta Counter with clock and weekday.
 
 ### Step 1
